@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sreeranjjayadevan/static/css/main.b0553295.css",
+    "main.js": "/sreeranjjayadevan/static/js/main.1e991bfc.js",
+    "static/media/sreeranj_picture.jpg": "/sreeranjjayadevan/static/media/sreeranj_picture.22e84cd8e6d4c1c1c15b.jpg",
+    "index.html": "/sreeranjjayadevan/index.html",
+    "main.b0553295.css.map": "/sreeranjjayadevan/static/css/main.b0553295.css.map",
+    "main.1e991bfc.js.map": "/sreeranjjayadevan/static/js/main.1e991bfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0553295.css",
+    "static/js/main.1e991bfc.js"
+  ]
+}
